@@ -50,5 +50,3 @@ npm run dev
 # or
 yarn dev
 
-
-Feel free to customize this `README.md` according to your needs and preferences!
